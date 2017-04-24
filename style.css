@@ -1,0 +1,45 @@
+
+button:hover{
+    color: gray;
+    background-color:#3047AD;
+}
+h1{ 
+    color:#3047AD;
+    font-size:55px;
+    padding-left:35%;
+    font-style:italic;
+    margin-bottom:0;
+    
+}
+body{
+  background-color:lightgrey;
+
+}
+.blu {
+    margin-left: 50%; 
+    color:#3047AD;
+padding-left: 1%;
+padding-right: 1%;
+padding-top: 1%;
+padding-bottom: 1%;
+background-color:lightgrey;
+font-size:20px;
+font-style:italic;
+margin-left:44.5%;
+margin-top:0%;
+
+}
+
+.random-card-image {
+    width: 300px;
+    height: 200px;
+    text-color:red;
+}
+.paragraph{
+    font-family: "Times New Roman";
+    color:red;
+}
+h4{
+    color:#3047AD;
+    
+}
